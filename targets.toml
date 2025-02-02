@@ -4,3 +4,6 @@ global_destination = 'C:\Users\micha\Documents\Save Backups'
 
 [targets.Breaker]
 source = 'C:\Users\micha\AppData\Local\Breaker'
+
+[targets.Shipbreaker]
+source = 'C:\Users\micha\AppData\LocalLow\Blackbird Interactive\Hardspace_ Shipbreaker'
